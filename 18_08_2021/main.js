@@ -40,7 +40,7 @@ data = {
 		["sync", "http://localhost:8384/"],
 	],
 	"Dev":[
-		["cat", "https://github.com/Catalinhimself"],
+		["cat", "https://github.com/catalinplesu"],
 		["wakatime", "https://wakatime.com/dashboard"],
 		["hub", "https://github.com/"],
 		["lab", "https://gitlab.com/"],
