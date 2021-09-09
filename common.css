@@ -1,28 +1,32 @@
+::selection {
+  color: #fabd2f;
+  background: #d3869b;
+}
 body{
-	background-color: #282828;
-	color: #b8bb26;
+	background-color: #fbf1c7;
+	color: #fb4934;
 	font-size: 30px;
 }
 a:link {
-  color: #b8bb26;
+  color: #fb4934;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #b8bb26;
+  color: #fb4934;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #b8bb26;
+  color: #fb4934;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #b8bb26;
+  color: #fb4934;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -38,7 +42,7 @@ td, table{
 	text-align: center;
 }
 table{
-    border: 3px solid #b8bb26;
+    border: 3px solid #fb4934;
 }
 th, td {
   padding: 15px;
