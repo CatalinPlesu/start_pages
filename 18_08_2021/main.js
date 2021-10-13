@@ -4,27 +4,32 @@ data = {
 		["telegram","https://web.telegram.org/k/"],
 		["discord", "https://discord.com/app/"],
 		["instagram", "https://www.instagram.com/"],
-		["messenger", "https://www.messenger.com/t/1411228652335220"],
-		["facebook", "https://www.facebook.com/"],
+		["twitter", "https://twitter.com/CatalinPlesu"],
 	],
+
 	"Lrn":[
 		["duolingo", "https://www.duolingo.com/learn"],
 		["racer", "https://play.typeracer.com/"],
+		["monke", "https://monkeytype.com/"],
 		["wars", "https://www.codewars.com/dashboard"],
+		["read", "https://readspeeder.com/lessons.html"],
 	],
+
 	"Ent":[
-		["youtube", "https://www.youtube.com/"],
 		["odysee", "https://odysee.com/"],
 		["devian", "https://www.deviantart.com/"],
-		["pixiv", "https://www.pixiv.net/en/"],
+		["pix", "https://www.pixiv.net/en/"],
 		["art", "https://www.artstation.com/?sort_by=community"],
 		["pint", "https://www.pinterest.com/"],
 	],
+
 	"Res":[
 		["wall", "https://wallhaven.cc/"],
 		["png", "https://www.pngfind.com/"],
 		["gifs", "http://1041uuu.tumblr.com/"],
+		["pivs", "https://unsplash.com/t/wallpapers"],
 	],
+
 	"UTM":[
 		["teams", "https://teams.microsoft.com/_?culture=en-us&country=WW&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/school/conversations/Comunitatea%20TI?threadId=19:90d27a023bb946789869210cebb6f86c@thread.tacv2&ctx=channel"],
 		["simu", "https://simu.utm.md/students/"],
@@ -34,11 +39,13 @@ data = {
 		["self", "https://mail.google.com/mail/u/1/#inbox"],
 		["fake", "https://mail.google.com/mail/u/0/#inbox"],
 	],
+
 	"Tech":[
 		["arch", "https://archlinux.org/"],
 		["gentoo", "https://wiki.gentoo.org/wiki/Main_Page"],
 		["sync", "http://localhost:8384/"],
 	],
+
 	"Dev":[
 		["cat", "https://github.com/catalinplesu"],
 		["wakatime", "https://wakatime.com/dashboard"],

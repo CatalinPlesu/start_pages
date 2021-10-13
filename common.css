@@ -3,30 +3,30 @@
   background: #d3869b;
 }
 body{
-	background-color: #fbf1c7;
-	color: #fb4934;
+	background-color: #282828;
+	color: #b8bb26;
 	font-size: 30px;
 }
 a:link {
-  color: #fb4934;
+  color: #b8bb26;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #fb4934;
+  color: #b8bb26;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #fb4934;
+  color: #b8bb26;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #fb4934;
+  color: #b8bb26;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -42,7 +42,7 @@ td, table{
 	text-align: center;
 }
 table{
-    border: 3px solid #fb4934;
+    border: 3px solid #b8bb26;
 }
 th, td {
   padding: 15px;
