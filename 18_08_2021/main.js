@@ -3,20 +3,17 @@ data = {
 		["206","https://discord.com/channels/742508750258176152/747139629634945054"],
 		["telegram","https://web.telegram.org/k/"],
 		["discord", "https://discord.com/app/"],
-		["instagram", "https://www.instagram.com/"],
 		["twitter", "https://twitter.com/CatalinPlesu"],
 	],
 
 	"Lrn":[
-		["duolingo", "https://www.duolingo.com/learn"],
-		["racer", "https://play.typeracer.com/"],
+		["type", "https://play.typeracer.com/"],
+		["read", "https://readspeeder.com/lessons.html"],
 		["monke", "https://monkeytype.com/"],
 		["wars", "https://www.codewars.com/dashboard"],
-		["read", "https://readspeeder.com/lessons.html"],
 	],
 
 	"Ent":[
-		["odysee", "https://odysee.com/"],
 		["devian", "https://www.deviantart.com/"],
 		["pix", "https://www.pixiv.net/en/"],
 		["art", "https://www.artstation.com/?sort_by=community"],
